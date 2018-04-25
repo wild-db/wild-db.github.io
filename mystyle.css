@@ -16,3 +16,7 @@
 table {
 	border-radius: 5px;
 }
+
+.title {
+	border: none;
+}
