@@ -31,3 +31,7 @@ table {
 	padding: 5px;
 	font-size: 14pt;
 }
+
+.struct {
+	text-align: left;
+}
